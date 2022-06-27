@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812663769603",
+    "project_id": "javiproject-d9b39",
+    "storage_bucket": "javiproject-d9b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812663769603:android:e802afc854c36796335c36",
+        "android_client_info": {
+          "package_name": "com.example.javiproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812663769603-2lejmpetej3oi45s65iddflhk1a0h0oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1eQxdJCQlwNDEKeSkEOMdqszlN9g7CA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812663769603-2lejmpetej3oi45s65iddflhk1a0h0oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

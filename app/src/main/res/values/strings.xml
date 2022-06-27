@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">JaviProject</string>
+    <string name="tup_id">TUP ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginCaps">LOGIN</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="welcome_to_faculty_service_tracker">WELCOME TO FACULTY SERVICE TRACKER</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="register">Register</string>
+    <string name="register_your_account">REGISTER YOUR ACCOUNT</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="good_day">Good Day!</string>
+    <string name="hello">Hello,</string>
+    <string name="name">Name</string>
+    <string name="request_count">Request Count</string>
+    <string name="_0">0</string>
+    <string name="request_count1">Request Count :</string>
+    <string name="submit_request">Submit Request</string>
+    <string name="tracker_points">Tracker Points :</string>
+    <string name="event_name">Event Name</string>
+    <string name="date">Date</string>
+    <string name="send_request">Send request</string>
+    <string name="submit_your_request_now">SUBMIT YOUR REQUEST NOW</string>
+    <string name="go_back_to_main_page">Go Back to Main Page</string>
+</resources>
